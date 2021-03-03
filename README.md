@@ -7,10 +7,15 @@ Learning
         -classes
         -web stuff
       ```
+      
+      
 --Python 
       ```
       Numpy
       All the good stuff i missed,not lambda
       ```
+      
+      
+      
 --Java
     ``` from C++ to java Journey 
